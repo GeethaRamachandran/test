@@ -1,0 +1,7 @@
+admin name: admin
+admin password:admin
+
+user name:raja
+user password:1234
+
+connection= "jdbc:odbc:Quiz"
